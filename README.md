@@ -1,5 +1,8 @@
 # SolanaWallet
 
+Install dependencies: 
+npm install @solana/web3.js
+
 Terminal Commands
 
 Create a wallet: 
